@@ -1,0 +1,19 @@
+{
+    "name": "root/study-ddd",
+    "description": "Training ddd Command and Handler",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcelo Pereira",
+            "email": "marcelooprogramdor@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
