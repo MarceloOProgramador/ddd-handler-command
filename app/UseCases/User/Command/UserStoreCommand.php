@@ -14,6 +14,6 @@ class UserStoreCommand implements CommandInterface
 
     public function execute()
     {
-        echo "O usuário {$user->name} foi criado com sucesso" . PHP_EOL;
+        echo "O usuário {$this->user->name} foi criado com sucesso" . PHP_EOL;
     }
 }
